@@ -7,7 +7,7 @@ WorkHive is a simple yet powerful console application that helps you manage empl
 + **Reliable & Tested:** Thoroughly tested to ensure smooth operation.
 
 ## How to Install & Run
-1. **Clone the Repo:** `git clone `
+1. **Clone the Repo:** `git clone https://github.com/KatavinaNguyen/WorkHive.git`
 2. **Set Up the Database:** Install MySQL and set up the database with the provided scripts.
 3. **Run WorkHive:** Compile and run the application using your favorite Java IDE. 
 
